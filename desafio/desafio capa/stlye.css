@@ -1,0 +1,27 @@
+.capa {
+    background-image: url("t.jpg");
+    min-height: 100vh;
+    padding: 24px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+    p {
+        text-align: center;
+    }
+
+    h1 {
+        color: aliceblue
+    }
+
+    h2 {
+        color: aliceblue
+    }
+
+
+
+}

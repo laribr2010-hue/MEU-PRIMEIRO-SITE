@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(85, 180, 109);
+    flex-wrap: var(background-color);
+}
+
+h1 {
+    color: #2d573d;
+
+
+}
+
+h2 {
+    color: #347202;
+}
+
+p {
+    color: rgb(245, 255, 243);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
